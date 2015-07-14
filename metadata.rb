@@ -1,4 +1,4 @@
-name 'pg_chef_gem'
+name 'pg-chef-gem'
 
 depends 'build-essential'
 depends 'postgresql'
